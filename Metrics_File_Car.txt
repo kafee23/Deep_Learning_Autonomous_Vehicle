@@ -1,0 +1,24 @@
+Accuracy Score for C is 0.9069767441860465
+Precision Score for C is 0.9166666666666666
+Recall Score for C is 0.868421052631579
+F1 Score for C is 0.8918918918918918
+Cohen Kappa Score for C is 0.8103638368246968
+ROC AUC Score for C is 0.9029605263157895
+Confusion Matrix for C is [[45  3]
+ [ 5 33]]
+Accuracy Score for L is 0.7325581395348837
+Precision Score for L is 0.6842105263157895
+Recall Score for L is 0.7027027027027027
+F1 Score for L is 0.6933333333333334
+Cohen Kappa Score for L is 0.4562946673996702
+ROC AUC Score for L is 0.7289023717595146
+Confusion Matrix for L is [[37 12]
+ [11 26]]
+Accuracy Score for R is 0.7674418604651163
+Precision Score for R is 0.7843137254901961
+Recall Score for R is 0.8163265306122449
+F1 Score for R is 0.8
+Cohen Kappa Score for R is 0.5224875069405885
+ROC AUC Score for R is 0.7595146166574737
+Confusion Matrix for R is [[26 11]
+ [ 9 40]]
